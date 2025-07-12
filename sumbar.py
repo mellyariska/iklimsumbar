@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # ========== BACA DATA ==========
-file_path = "DATA_SUMBAR.xlsx"
+file_path = "MINANGKABAU.xlsx"
 df = pd.read_excel(file_path)
 
 # Membersihkan nama kolom
